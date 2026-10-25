@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "23kbrat.aternos.me:22190",
+    "port": 22190,
     "version": "",
     "try-creative": false
   },
